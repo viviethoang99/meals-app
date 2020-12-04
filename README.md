@@ -3,6 +3,7 @@
 A Flutter application that was built while learning Navigation/Screen features in [Flutter](https://flutter.dev/ "Flutter") application development. 
 
 Features:
+
 Meals-App lets you browse meals by category, mark them as favorites and set filters to decide which type of meals you want. This application contains recipes too with a step by step guide.
 
 
